@@ -6,3 +6,5 @@ Technologies used
 * CSS
 
 Live link
+
+https://peter-kimanzi.github.io/Mad-max-furiosa-animated-poster/
