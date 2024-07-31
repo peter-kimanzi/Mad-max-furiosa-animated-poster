@@ -1,4 +1,4 @@
-BreadcrumbsMad-max-furiosa-animated-poster
+BreadcrumbsMad-max-furiosa-animated-poster,
 
 Technologies used
 
